@@ -1,5 +1,5 @@
 # Timeline
 Our very first project - Timeline
 
-Hello Timeline - Message from Ahram.
+Hello Timeline - Message from Ahram
 
